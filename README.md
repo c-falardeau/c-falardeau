@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @c-falardeau
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning about REACT as frontend and ASP.NET for backend 
